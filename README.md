@@ -72,9 +72,3 @@ and prints a summary table + saves the final plot.
 | Baseline  | ~99%      | ~30%      |
 | Defended  | ~97%      | ~80%      |
 
-## Key Concept
-
-FGSM exploits the fact that neural networks are sensitive to small,
-targeted perturbations that humans cannot perceive. Adversarial training
-is the most effective known defense — by training on adversarial examples,
-the model learns more robust decision boundaries.
